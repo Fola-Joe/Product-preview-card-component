@@ -86,18 +86,63 @@ main {
     font-family: 'Fraunces', serif;
     font-weight: 700;
     font-size: 2rem;
+    padding: 10px 0 10px;
 }
 
 .p1 {
     font-family: 'Montserrat', sans-serif;
     font-weight: 500;
+    font-size: 0.8rem;
+    line-height: 1.3rem;
+    color: hsl(228, 12%, 48%);
+}
+
+.line {
+    padding: 10px 20px 0 0;
 }
 
 .btn {
     font-family: 'Montserrat', sans-serif;
     font-weight: 700;
+    width: 100%;
+    background-color: hsl(158, 36%, 37%);
+    color: hsl(0, 0%, 100%);
+    padding: 15px;
+    border-radius: 7px;
+    display: block;
+    border: none;
+    text-align: center;
 }
 
+.btn:hover {
+    background-color: hsl(158, 80%, 8%);
+    cursor: pointer;
+}
+
+.cart {
+    height: 15px;
+    margin-right: 10px;
+}
+
+.click {
+    padding: 10px 0 8px;
+}
+
+.price {
+    margin-top: 30px;
+    display: flex;
+    gap: 1.5rem;
+}
+
+.pr-2 {
+    color: hsl(158, 36%, 37%);
+}
+
+.pr-1 {
+    display: flex;
+    align-items: center;
+    text-decoration: line-through;
+}
 
 footer {
     position: absolute;
