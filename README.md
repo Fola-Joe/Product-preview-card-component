@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [My repository](https://github.com/Fola-Joe/Product-preview-card-component.git)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Live site](https://fola-joe.github.io/Product-preview-card-component/)
 
 ## My process
 
